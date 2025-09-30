@@ -22,3 +22,6 @@ let skills = ["HTML", "CSS"];    // Array
 let details = { city: "Vadodara", course: "MCA" }; // Object
 
 console.log(isStudent, marks, subject, skills, details);
+
+
+
